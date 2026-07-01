@@ -38,9 +38,18 @@
         "panelTitle": "Private Homes, Composed Slowly.",
         "panelExcerpt": "A private home should surprise its owners every morning — not with novelty, but with the quiet rightness of a room designed for how they actually live.",
         "stats": [
-          { "count": "24", "label": "Completed" },
-          { "count": "9", "label": "Avg. Timeline" },
-          { "count": "4", "label": "Countries" }
+          {
+            "count": "24",
+            "label": "Completed"
+          },
+          {
+            "count": "9",
+            "label": "Avg. Timeline"
+          },
+          {
+            "count": "4",
+            "label": "Countries"
+          }
         ],
         "features": [
           "Full-home commissions — one steward from concept to handover.",
@@ -63,9 +72,18 @@
         "panelTitle": "Atmospheres That Hold.",
         "panelExcerpt": "A great hotel room makes a guest want to stay rather than go out. We design for the quality of that pause — when someone stops checking their phone.",
         "stats": [
-          { "count": "12", "label": "Completed" },
-          { "count": "14", "label": "Avg. Timeline" },
-          { "count": "6", "label": "Countries" }
+          {
+            "count": "12",
+            "label": "Completed"
+          },
+          {
+            "count": "14",
+            "label": "Avg. Timeline"
+          },
+          {
+            "count": "6",
+            "label": "Countries"
+          }
         ],
         "features": [
           "Boutique hotels, destination restaurants and members' clubs across Europe.",
@@ -88,9 +106,18 @@
         "panelTitle": "What the Century Left Behind.",
         "panelExcerpt": "Half our commissions are restorations — buildings that have held a century of light and still ask for more. We preserve what should stay and introduce what must come.",
         "stats": [
-          { "count": "6", "label": "Completed" },
-          { "count": "18", "label": "Avg. Timeline" },
-          { "count": "3", "label": "Countries" }
+          {
+            "count": "6",
+            "label": "Completed"
+          },
+          {
+            "count": "18",
+            "label": "Avg. Timeline"
+          },
+          {
+            "count": "3",
+            "label": "Countries"
+          }
         ],
         "features": [
           "Listed and Grade-I buildings restored with full heritage compliance.",
@@ -113,9 +140,18 @@
         "panelTitle": "Spaces That Say Something Before Anyone Speaks.",
         "panelExcerpt": "Galleries, showrooms and private offices where the environment is as deliberate as the work it houses — commercial interiors that communicate identity through atmosphere.",
         "stats": [
-          { "count": "5", "label": "Completed" },
-          { "count": "7", "label": "Avg. Timeline" },
-          { "count": "3", "label": "Countries" }
+          {
+            "count": "5",
+            "label": "Completed"
+          },
+          {
+            "count": "7",
+            "label": "Avg. Timeline"
+          },
+          {
+            "count": "3",
+            "label": "Countries"
+          }
         ],
         "features": [
           "Gallery and exhibition environments are designed around artwork and flow.",

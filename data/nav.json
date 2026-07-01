@@ -4,10 +4,26 @@
     "alt": "Brand Logo"
   },
   "menuItems": [
-    { "type": "link", "label": "Home", "href": "/" },
-    { "type": "link", "label": "About", "href": "/about" },
-    { "type": "link", "label": "Services", "href": "/services" },
-    { "type": "link", "label": "Projects", "href": "/projects" },
+    {
+      "type": "link",
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "type": "link",
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "type": "link",
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "type": "link",
+      "label": "Projects",
+      "href": "/projects"
+    },
     {
       "type": "dropdown",
       "label": "Pages",
@@ -15,31 +31,61 @@
         {
           "title": "Pages",
           "items": [
-            { "label": "Journal", "href": "/blog" },
-            { "label": "Contact Us", "href": "/contact" }
+            {
+              "label": "Journal",
+              "href": "/blog"
+            },
+            {
+              "label": "Contact Us",
+              "href": "/contact"
+            }
           ]
         },
         {
           "title": "CMS pages",
           "items": [
-            { "label": "Service Details", "href": "/services/hospitality-design" },
-            { "label": "Blog Details", "href": "/post/what-happens-in-week-one-before-a-commission-finds-its-shape" },
-            { "label": "Project Details", "href": "/project/palazzo-nero" }
+            {
+              "label": "Service Details",
+              "href": "/services/hospitality-design"
+            },
+            {
+              "label": "Blog Details",
+              "href": "/post/what-happens-in-week-one-before-a-commission-finds-its-shape"
+            },
+            {
+              "label": "Project Details",
+              "href": "/project/palazzo-nero"
+            }
           ]
         },
         {
           "title": "Template info",
           "items": [
-            { "label": "Style Guide", "href": "/template-info/style-guide" },
-            { "label": "Licenses", "href": "/template-info/licenses" },
-            { "label": "Changelog", "href": "/template-info/changelog" }
+            {
+              "label": "Style Guide",
+              "href": "/template-info/style-guide"
+            },
+            {
+              "label": "Licenses",
+              "href": "/template-info/licenses"
+            },
+            {
+              "label": "Changelog",
+              "href": "/template-info/changelog"
+            }
           ]
         },
         {
           "title": "Utility pages",
           "items": [
-            { "label": "Password Protected", "href": "/401" },
-            { "label": "404 Page", "href": "/404" }
+            {
+              "label": "Password Protected",
+              "href": "/401"
+            },
+            {
+              "label": "404 Page",
+              "href": "/404"
+            }
           ]
         }
       ]

@@ -14,31 +14,76 @@
     {
       "title": "Studio",
       "links": [
-        { "label": "Home", "href": "/" },
-        { "label": "About", "href": "/about" },
-        { "label": "Services", "href": "/services" },
-        { "label": "Journal", "href": "/blog" },
-        { "label": "Contact", "href": "/contact" }
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "About",
+          "href": "/about"
+        },
+        {
+          "label": "Services",
+          "href": "/services"
+        },
+        {
+          "label": "Journal",
+          "href": "/blog"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        }
       ]
     },
     {
       "title": "Work",
       "links": [
-        { "label": "Projects", "href": "/projects" },
-        { "label": "Residential", "href": "/project-category/residential" },
-        { "label": "Hospitality", "href": "/project-category/hospitality" },
-        { "label": "Heritage", "href": "/project-category/heritage" },
-        { "label": "Lighting", "href": "/project-category/lighting" }
+        {
+          "label": "Projects",
+          "href": "/projects"
+        },
+        {
+          "label": "Residential",
+          "href": "/project-category/residential"
+        },
+        {
+          "label": "Hospitality",
+          "href": "/project-category/hospitality"
+        },
+        {
+          "label": "Heritage",
+          "href": "/project-category/heritage"
+        },
+        {
+          "label": "Lighting",
+          "href": "/project-category/lighting"
+        }
       ]
     },
     {
       "title": "Resources",
       "links": [
-        { "label": "Not Found Page", "href": "/404" },
-        { "label": "Protected Page", "href": "/401" },
-        { "label": "Style Guide", "href": "/template-info/style-guide" },
-        { "label": "Licenses", "href": "/template-info/licenses" },
-        { "label": "Changelog", "href": "/template-info/changelog" }
+        {
+          "label": "Not Found Page",
+          "href": "/404"
+        },
+        {
+          "label": "Protected Page",
+          "href": "/401"
+        },
+        {
+          "label": "Style Guide",
+          "href": "/template-info/style-guide"
+        },
+        {
+          "label": "Licenses",
+          "href": "/template-info/licenses"
+        },
+        {
+          "label": "Changelog",
+          "href": "/template-info/changelog"
+        }
       ]
     }
   ],
@@ -48,10 +93,22 @@
     "description": "One email a month. Notes on light, material, and the current commission — never louder than that."
   },
   "socials": [
-    { "platform": "Instagram", "href": "https://www.instagram.com/" },
-    { "platform": "Pinterest", "href": "https://www.pinterest.com/" },
-    { "platform": "Behance", "href": "https://www.behance.net/" },
-    { "platform": "LinkedIn", "href": "https://www.linkedin.com/" }
+    {
+      "platform": "Instagram",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "platform": "Pinterest",
+      "href": "https://www.pinterest.com/"
+    },
+    {
+      "platform": "Behance",
+      "href": "https://www.behance.net/"
+    },
+    {
+      "platform": "LinkedIn",
+      "href": "https://www.linkedin.com/"
+    }
   ],
   "copyright": "Copyright © Orenda | Designed by Brandbes - Powered by Webflow"
 }

@@ -6,9 +6,18 @@
     "imageLabel": "Studio Milan",
     "imageLabelStrong": "Via Manzoni 12",
     "stats": [
-      { "number": "41", "label": "Interiors" },
-      { "number": "12", "label": "Years" },
-      { "number": "2", "label": "Studios" }
+      {
+        "number": "41",
+        "label": "Interiors"
+      },
+      {
+        "number": "12",
+        "label": "Years"
+      },
+      {
+        "number": "2",
+        "label": "Studios"
+      }
     ]
   },
   "ticker": [

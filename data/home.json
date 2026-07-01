@@ -33,8 +33,14 @@
     ],
     "heading": "We Design Spaces, Not Just Rooms.",
     "pills": [
-      { "title": "Bespoke Approach", "icon": "check" },
-      { "title": "Heritage Focus", "icon": "clock" }
+      {
+        "title": "Bespoke Approach",
+        "icon": "check"
+      },
+      {
+        "title": "Heritage Focus",
+        "icon": "clock"
+      }
     ],
     "body": "Founded in 2014 by Elena Conti, Orenda treats every interior as a composition — slowly sketched, quietly finished, and built to age well. We take on only eight commissions per year."
   },
@@ -87,10 +93,22 @@
           "title": "Project Brief · V.Serenoa",
           "status": "Observing",
           "details": [
-            { "label": "Studio lead", "value": "Elena Conti" },
-            { "label": "Scope", "value": "Full Residence" },
-            { "label": "Timeline", "value": "9 months" },
-            { "label": "Handover", "value": "Q4 · 2026" }
+            {
+              "label": "Studio lead",
+              "value": "Elena Conti"
+            },
+            {
+              "label": "Scope",
+              "value": "Full Residence"
+            },
+            {
+              "label": "Timeline",
+              "value": "9 months"
+            },
+            {
+              "label": "Handover",
+              "value": "Q4 · 2026"
+            }
           ]
         }
       },
@@ -102,10 +120,22 @@
           "title": "Project Brief · V.Serenoa",
           "status": "Observing",
           "details": [
-            { "label": "Studio lead", "value": "Elena Conti" },
-            { "label": "Scope", "value": "Full Residence" },
-            { "label": "Timeline", "value": "9 months" },
-            { "label": "Handover", "value": "Q4 · 2026" }
+            {
+              "label": "Studio lead",
+              "value": "Elena Conti"
+            },
+            {
+              "label": "Scope",
+              "value": "Full Residence"
+            },
+            {
+              "label": "Timeline",
+              "value": "9 months"
+            },
+            {
+              "label": "Handover",
+              "value": "Q4 · 2026"
+            }
           ]
         }
       },
@@ -117,10 +147,22 @@
           "title": "Project Brief · V.Serenoa",
           "status": "Observing",
           "details": [
-            { "label": "Studio lead", "value": "Elena Conti" },
-            { "label": "Scope", "value": "Full Residence" },
-            { "label": "Timeline", "value": "9 months" },
-            { "label": "Handover", "value": "Q4 · 2026" }
+            {
+              "label": "Studio lead",
+              "value": "Elena Conti"
+            },
+            {
+              "label": "Scope",
+              "value": "Full Residence"
+            },
+            {
+              "label": "Timeline",
+              "value": "9 months"
+            },
+            {
+              "label": "Handover",
+              "value": "Q4 · 2026"
+            }
           ]
         }
       }
