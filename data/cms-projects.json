@@ -1,0 +1,386 @@
+[
+  {
+    "slug": "atelier-rive",
+    "title": "Atelier Rive",
+    "subtitle": "Showroom",
+    "excerpt": "A penthouse designed around sculpture, daylight, and tactile surfaces, with nearly every fixed element custom-built in the Milan atelier.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Como",
+        "text": "Lombardy, Italy."
+      },
+      {
+        "label": "Completed",
+        "count": "2025",
+        "text": "7 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "14",
+        "text": "Bespoke joinery & lighting designed in-house."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c350c486cab150b8372a_project-1.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The client approached Orenda with a singular request: they wanted a home that felt completely settled the moment they walked through the door. Not a showpiece, but a sanctuary where the architecture recedes and the atmosphere takes over. The existing structure, while generous in proportion, suffered from fragmented circulation and an over-reliance on artificial lighting.</strong></p><p>Situated on the western shore of Lake Como, the villa receives its most dramatic light in the late afternoon. Instead of fighting this sharp, raking sunlight, we designed the entire spatial sequence and material palette to capture it. We opened the western elevations and restructured the central stairwell to act as a light well, pulling the afternoon glow deep into the private quarters.</p><p>The material palette was kept intentionally brief to maintain visual silence. We chose heavily smoked Italian walnut to absorb the lakeside glare, paired with unfilled Navona travertine that catches soft, moving shadows as the sun sets over the water. These materials were not simply applied to surfaces; they were used volumetrically to carve out thick, monumental thresholds between rooms.</p><p>Every piece of built-in cabinetry, architectural hardware, and ambient lighting was custom-designed by our Milan atelier. By controlling these elements in-house, we ensured that no off-the-shelf fixture interrupted the quiet rhythm of the space.</p><p>The result is a residence that requires very little styling to feel complete. It is a house tuned to the slow passage of the day—a space that feels as grounded and inevitable as the landscape it overlooks.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"They returned the house to us quieter than we imagined it could be. It does not feel decorated; it feels grounded.\"",
+    "clientAuthor": "Como Residence",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Honed Navona Travertine"
+      },
+      {
+        "label": "Timber",
+        "value": "Smoked Italian Walnut (Custom Finish)"
+      },
+      {
+        "label": "Metals",
+        "value": "Unlacquered Burnished Brass"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Hand-troweled Marmorino Plaster"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Luce Series (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Elena Conti"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be6e52599a96eb7b677b_project-4.webp",
+      "meta": "Rural Restoration",
+      "title": "Casa Bellini",
+      "href": "/project/casa-bellini"
+    }
+  },
+  {
+    "slug": "casa-bellini",
+    "title": "Casa Bellini",
+    "subtitle": "Rural Restoration",
+    "excerpt": "A Tuscan farmhouse restoration that erases the boundary between intervention and origin through reclaimed stone, rescued timber, and local craft.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Chianti",
+        "text": "Tuscany, Italy."
+      },
+      {
+        "label": "Completed",
+        "count": "2024",
+        "text": "9 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "11",
+        "text": "Bespoke ironmongery & pendants produced with local craft."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c2f0d2e509a66a34ed55_project-4.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The client asked for very little in the initial briefing, and that restraint became the guiding principle of the entire project. They wanted a countryside residence that felt as though it had always existed—not a new build imposing itself on the land, but something grown quietly from the soil beneath it. The existing farmhouse structure was preserved entirely; our work began only at its edges and interiors.</strong></p><p>Set within the rolling hills of the Chianti region, the house sits at the end of a long cypress-lined drive. The Tuscan afternoon light arrives horizontally, flooding the kitchen and dining rooms with a warmth that no artificial source could replicate. We stripped back every interior surface to allow this light to become the primary decorative element of the home.</p><p>The material palette drew exclusively from the immediate landscape. We used hand-cut pietra forte sandstone reclaimed from a collapsed outbuilding on the same property, paired with aged chestnut recovered from the original roof structure. The continuity of material between exterior and interior dissolves the boundary between inside and outside in a way that feels entirely unforced.</p><p>All cabinetry, ironmongery, and pendant lighting was produced by our atelier in close dialogue with local Florentine craftsmen to ensure the new elements held the same weight and patina as the old ones.</p><p>The house now feels as though it was never touched. Which, for this particular client, was precisely the point.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"The house feels as though it was never touched. We walked in on completion day and wept. It was exactly that.\"",
+    "clientAuthor": "Chianti House",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Reclaimed Pietra Forte Sandstone"
+      },
+      {
+        "label": "Timber",
+        "value": "Aged Chestnut (Reclaimed Structural)"
+      },
+      {
+        "label": "Metals",
+        "value": "Hand-forged Blackened Iron"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Raw Tadelakt Lime Render"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Bellini Pendants (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Sofia Caruso"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40bf94c4092364e21da2a4_project-6.webp",
+      "meta": "Studio",
+      "title": "Luce Series",
+      "href": "/project/luce-series"
+    }
+  },
+  {
+    "slug": "luce-series",
+    "title": "Luce Series",
+    "subtitle": "Studio",
+    "excerpt": "A studio designed around diffused light, cool stone, and structured silence, with every fixed partition custom-fabricated in the Milan atelier.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Navigli",
+        "text": "Milan, Italy."
+      },
+      {
+        "label": "Completed",
+        "count": "2025",
+        "text": "6 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "12",
+        "text": "Bespoke shelving & track lighting designed in-house."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c302690a69e1856279ba_project-2.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The client came to Orenda with a clear vision: a workspace that felt deliberate from the first moment of entry. Not a statement, but a place of quiet focus where the architecture supports rather than competes. The existing shell, while structurally sound, lacked a coherent flow and relied too heavily on borrowed light from adjacent corridors.</strong></p><p>Positioned on the northern face of the Navigli district, the studio receives a cool, even light throughout the day. Rather than introducing warmer sources artificially, we tuned the material palette to amplify this consistent northern glow. We reconfigured the mezzanine level and introduced a central atrium that draws diffused light down into the working floors below.</p><p>The material palette was deliberately restrained to preserve a sense of visual clarity. We selected pale Pietra Serena stone to reflect the ambient light softly, paired with bleached European ash that holds a matte, powdery finish under overcast skies. These materials were treated as structural elements rather than finishes, used to define volumes and thresholds throughout the space.</p><p>Every shelving unit, workspace partition, and ambient lighting track was developed in-house by our Milan atelier. This level of integration meant each component reinforced the spatial logic rather than interrupting it with off-the-shelf solutions.</p><p>The result is a studio that performs exceptionally well as a working environment. It is a space calibrated to the slow rhythm of creative practice—one that feels as considered and precise as the work produced within it.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"They gave us a studio that disappears when we work. The space simply holds us without asking for attention.\"",
+    "clientAuthor": "Milan Works",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Honed Pietra Serena"
+      },
+      {
+        "label": "Timber",
+        "value": "Bleached European Ash (Matte Finish)"
+      },
+      {
+        "label": "Metals",
+        "value": "Brushed Gunmetal Steel"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Raw Lime Wash Plaster"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Luce Track Series (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Marco Ferretti"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be6e52599a96eb7b677b_project-4.webp",
+      "meta": "Rural Restoration",
+      "title": "Casa Bellini",
+      "href": "/project/casa-bellini"
+    }
+  },
+  {
+    "slug": "palazzo-nero",
+    "title": "Palazzo Nero",
+    "subtitle": "Historic Palazzo",
+    "excerpt": "A four-storey historic palazzo transformed through radical contrast—preserved frescoes and terracotta set against new insertions of absolute black granite.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Bologna",
+        "text": "Bologna, Italy."
+      },
+      {
+        "label": "Completed",
+        "count": "2024",
+        "text": "11 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "19",
+        "text": "Bespoke furniture & metalwork fabricated by local Bologna craft."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c2e9f8999364838c2e92_project-5.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The client inherited the palazzo but had never lived in it. Four floors of faded frescoes, crumbling cornices, and rooms that had not been occupied in decades. The brief was straightforward: make it liveable without making it ordinary. Every surface was to feel earned, not applied. Every room was to carry both its history and its present without apology.</strong></p><p>Located in the heart of the historic centre of Bologna, the palazzo faces a narrow medieval street that limits direct sunlight to a brief window each morning. We designed the entire spatial sequence to maximise these morning hours, orienting the primary living areas toward the east and using deep-set mirror panels within the original plasterwork reveals to extend that light far into the interior.</p><p>The material palette was divided between the preserved original fabric and a series of new insertions. We retained every surviving fresco, exposed the original terracotta floor throughout the ground level, and introduced new elements—kitchen, bathrooms, joinery—in a single material: dense black Absolute granite. The contrast is complete and deliberate. Old and new make no attempt to blend.</p><p>All furniture, lighting, and architectural metalwork was designed exclusively by our atelier and fabricated in Bologna by craftsmen who had worked on the palazzo's previous restoration decades earlier.</p><p>The residence holds its history without sentiment and its present without apology. It is, by any measure, one of the most resolved projects our atelier has completed.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"They did not restore it. They resurrected it. The palazzo carries its age like armour now, not like a wound.\"",
+    "clientAuthor": "Bologna Heritage",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Polished Absolute Black Granite"
+      },
+      {
+        "label": "Timber",
+        "value": "Restored Antique Terracotta (Original)"
+      },
+      {
+        "label": "Metals",
+        "value": "Satin Blackened Brass"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Restored Original Fresco (Preserved)"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Nero Series (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Luca Ferraro"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be64739e39f44a67a486_project-3.webp",
+      "meta": "Penthouse",
+      "title": "Studio Altura",
+      "href": "/project/studio-altura"
+    }
+  },
+  {
+    "slug": "studio-altura",
+    "title": "Studio Altura",
+    "subtitle": "Penthouse",
+    "excerpt": "A duplex penthouse split between a panoramic social floor and a deeply private residential level, unified through a two-tone material system.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Brera",
+        "text": "Milan, Italy."
+      },
+      {
+        "label": "Completed",
+        "count": "2025",
+        "text": "8 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "16",
+        "text": "Bespoke joinery partitions & hardware designed in-house."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c2fa06d920ee09ea9727_project-3.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The brief from the client was unusually specific: they wanted a home that operated on two entirely different registers—open and communal by day, deeply private by night. The existing apartment, spanning the top two floors of a converted textile warehouse, had strong bones but a layout that contradicted this dual ambition at almost every turn.</strong></p><p>Perched above the roofline of the Brera district, the residence commands unobstructed views to the north and east. We reorganised the plan entirely around this orientation, pulling the living spaces toward the panoramic façade and tucking the private quarters behind a thick band of joinery that acts as both storage and acoustic buffer between the two worlds.</p><p>The material palette was anchored by two primary stones: a dense, almost black Marquina marble used at all primary thresholds, and a warm, creamy Botticino limestone reserved for the private rooms. The contrast between the two creates a legible transition from the social to the intimate zones without requiring any applied signage or formal division.</p><p>All joinery, hardware, and bespoke lighting was produced by our Milan atelier to ensure that the two tones of the apartment read as a single, composed system rather than two separately decorated floors.</p><p>The finished residence holds its two registers with complete conviction. By day it is generous and expansive. By night it becomes still and close. Both states feel inevitable.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"The apartment knows when to open and when to close. We have never felt more at home in a space so deliberately designed.\"",
+    "clientAuthor": "Brera Living",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Honed Nero Marquina Marble"
+      },
+      {
+        "label": "Timber",
+        "value": "Ebonised European Oak (Satin Finish)"
+      },
+      {
+        "label": "Metals",
+        "value": "Oxidised Black Steel"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Venetian Polished Plaster"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Altura Series (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Giulia Manzoni"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40bf94c4092364e21da2a4_project-6.webp",
+      "meta": "Studio",
+      "title": "Luce Series",
+      "href": "/project/luce-series"
+    }
+  },
+  {
+    "slug": "villa-serenoa",
+    "title": "Villa Serenoa",
+    "subtitle": "Coastal Villa",
+    "excerpt": "A coastal villa above the Gulf of Poets designed around a dual-aspect plan that holds both sea and mountain within every principal room simultaneously.",
+    "stats": [
+      {
+        "label": "Location",
+        "count": "Lerici",
+        "text": "Lerici, Liguria."
+      },
+      {
+        "label": "Completed",
+        "count": "2025",
+        "text": "10 Months Total Timeline."
+      },
+      {
+        "label": "Custom Pieces",
+        "count": "15",
+        "text": "Bespoke pergola structures & outdoor lighting designed in-house."
+      }
+    ],
+    "mainImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40c2df8dd6a57317afcfb0_project-6.webp",
+    "conceptTitle": "Designing for the <span class=\"title-span\">Afternoon.</span>",
+    "projectDetailsHtml": "<p><strong>The client had owned the site for eleven years before engaging Orenda. They knew exactly where the house should sit, which trees were to remain, and how the morning light moved across the terrace in each season. Our role was not to design a vision but to give precise architectural form to one that already existed entirely in the client's imagination.</strong></p><p>Positioned on a gentle promontory above the Gulf of Poets near Lerici, the villa is oriented to capture both the morning light off the water and the evening silhouette of the Apuan Alps to the north. The plan follows a loose L-shape that allows every principal room to hold two aspects simultaneously—never a single view, always a relationship between two.</p><p>The material palette was driven by the colours already present in the landscape: the silver-green of the olive groves, the warm ochre of the cliff face, the dense grey-blue of the sea at dusk. We introduced Leccese stone for all external surfaces and terraces, bleached linen-finish oak for the interiors, and a hand-applied silicate paint in a single muted tone across all internal walls.</p><p>All outdoor furniture, pergola structures, and ambient lighting were custom-designed for the site by our atelier, ensuring that the boundary between the interior and the terraced gardens remained as dissolved as the landscape itself demanded.</p><p>The villa does not announce itself. It simply appears, as though it grew there over a very long time. Which was, from the very first conversation, exactly what was asked of us.</p>",
+    "galleryImages": [
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f4562f14e526ef16b53a_project-gallery-image-1.webp",
+      "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40f455df734d6e64903ce6_project-gallery-image-2.webp"
+    ],
+    "clientQuote": "\"It simply appeared, as though it had always been there. We have never needed to explain it to anyone who visits.\"",
+    "clientAuthor": "Liguria Coast",
+    "materials": [
+      {
+        "label": "Primary Stone",
+        "value": "Honed Leccese Stone"
+      },
+      {
+        "label": "Timber",
+        "value": "Bleached Linen-Finish Oak"
+      },
+      {
+        "label": "Metals",
+        "value": "Marine-Grade Brushed Aluminium"
+      },
+      {
+        "label": "Wall Finish",
+        "value": "Hand-applied Silicate Paint (Single Tone)"
+      },
+      {
+        "label": "Bespoke Lighting",
+        "value": "Serenoa Series (Atelier Orenda)"
+      },
+      {
+        "label": "Lead Designer",
+        "value": "Anna Vitale"
+      }
+    ],
+    "nextProject": {
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be499e25967fa1a409e7_project-1.webp",
+      "meta": "Showroom",
+      "title": "Atelier Rive",
+      "href": "/project/atelier-rive"
+    }
+  }
+]

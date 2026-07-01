@@ -1,0 +1,169 @@
+{
+  "hero": {
+    "title": "Interiors That Win By Design",
+    "excerpt": "Orenda is a boutique interior studio crafting calm, cinematic spaces for private homes, hotels and heritage buildings — with studios in Milan and Geneva.",
+    "completedStat": "180+ Completed",
+    "completedLabel": "Interiors Completed",
+    "badgeText": "World wide Commissions",
+    "leftImage": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a24e32454dbb1a98ab7e64a_39159efc1599dada95ee715ddac0b489_hero-image-1.webp",
+    "rightImage": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a24e324fdbf5bd9fb1f3567_1529d2690474eff8cb292691cb83b83e_hero-image-2.webp"
+  },
+  "about": {
+    "tag": "About The Studio",
+    "excerpt": "Studios in Milan and Geneva. A team of fifteen designers, makers and stewards of slow craft.",
+    "slides": [
+      {
+        "title": "Experience",
+        "desc": "For clients who trust quiet craft, twelve years of patient interior composition across four continents.",
+        "index": "01 / 03",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a250b60218753e3ddedee00_14f349631210a040d4da8561db3c2a84_home-about-image-1.webp"
+      },
+      {
+        "title": "Ateliers",
+        "desc": "Half our commissions are restorations — buildings that have held a century of light, and still ask for more.",
+        "index": "02 / 03",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a250b60ca105aad8ddbc169_3b0ad662825dede38d66e3d9d861370c_home-about-image-2.webp"
+      },
+      {
+        "title": "Craft",
+        "desc": "Every Orenda interior passes through the hands of a single steward, from first sketch to the last piece of hardware.",
+        "index": "03/ 03",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a250b6054dbb1a98abbd3c0_f9947bc7a991586b57a8a1755c5fc335_home-about-image-3.webp"
+      }
+    ],
+    "heading": "We Design Spaces, Not Just Rooms.",
+    "pills": [
+      { "title": "Bespoke Approach", "icon": "check" },
+      { "title": "Heritage Focus", "icon": "clock" }
+    ],
+    "body": "Founded in 2014 by Elena Conti, Orenda treats every interior as a composition — slowly sketched, quietly finished, and built to age well. We take on only eight commissions per year."
+  },
+  "tickerLogos": [
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780e11f6e324147fe93b_company-logo-1.svg",
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780ede5c19bff73fce58_company-logo-2.svg",
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780ef789986bf2b866cb_company-logo-3.svg",
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780e9b060f6e073cedf6_company-logo-4.svg",
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780e278a501dda0e7e1f_company-logo-5.svg",
+    "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e780e7a9c7089d9d04639_company-logo-6.svg"
+  ],
+  "services": {
+    "tag": "Our Service",
+    "title": "Where Vision Meets Space",
+    "excerpt": "Three disciplines, one studio standard. Each commission is led by a single steward, from the first conversation to the last piece of hardware set in place.",
+    "factCount": "41",
+    "factLabel": "Interiors Completed Since 2014"
+  },
+  "work": {
+    "tag": "Our Work",
+    "title": "Every Space Has A Story",
+    "excerpt": "Every commission carries its own tone, but the studio language remains constant. Filter the archive to move through residences, hotels, restorations, commercial spaces and light-led commissions."
+  },
+  "approach": {
+    "tag": "Our Approach",
+    "title": "Turning Ideas Into Timeless Spaces",
+    "steps": [
+      {
+        "order": "Step 01",
+        "title": "Discover The Space",
+        "text": "We spend the first seven days witnessing — watching how light, rhythm and daily life move through your space. Nothing is drawn until we understand how the room is lived in."
+      },
+      {
+        "order": "Step 02",
+        "title": "Compose The Narrative",
+        "text": "Material boards, lighting studies and spatial drawings converge into a single narrative — a quiet story the interior will tell, in every season, for decades."
+      },
+      {
+        "order": "Step 03",
+        "title": "Deliver With Craft",
+        "text": "Our ateliers build. Stewards site-supervise. Every finish is reviewed in the room's own light. You walk in once — to stay."
+      }
+    ],
+    "mediaSlides": [
+      {
+        "stepIndex": 0,
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a263db06c9323bf9352974d_be334d897ecd435f330264df8b1a3d98_process-step-image-1.webp",
+        "alt": "Designer listening in a client's home",
+        "card": {
+          "title": "Project Brief · V.Serenoa",
+          "status": "Observing",
+          "details": [
+            { "label": "Studio lead", "value": "Elena Conti" },
+            { "label": "Scope", "value": "Full Residence" },
+            { "label": "Timeline", "value": "9 months" },
+            { "label": "Handover", "value": "Q4 · 2026" }
+          ]
+        }
+      },
+      {
+        "stepIndex": 1,
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a263db07bc97ca41026e203_0a57e41ef1d117d1741bbc807dca222b_process-step-image-2.webp",
+        "alt": "Material swatches and composition board",
+        "card": {
+          "title": "Project Brief · V.Serenoa",
+          "status": "Observing",
+          "details": [
+            { "label": "Studio lead", "value": "Elena Conti" },
+            { "label": "Scope", "value": "Full Residence" },
+            { "label": "Timeline", "value": "9 months" },
+            { "label": "Handover", "value": "Q4 · 2026" }
+          ]
+        }
+      },
+      {
+        "stepIndex": 2,
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a263db065f2eec5a9d23286_46771601d9d6701ec3f3e37d47ab5a1d_process-step-image-3.webp",
+        "alt": "Finished interior with late afternoon light",
+        "card": {
+          "title": "Project Brief · V.Serenoa",
+          "status": "Observing",
+          "details": [
+            { "label": "Studio lead", "value": "Elena Conti" },
+            { "label": "Scope", "value": "Full Residence" },
+            { "label": "Timeline", "value": "9 months" },
+            { "label": "Handover", "value": "Q4 · 2026" }
+          ]
+        }
+      }
+    ]
+  },
+  "testimonials": {
+    "tag": "Testimonials",
+    "title": "Reflections From Our Community.",
+    "factNumber": "98",
+    "factPercent": "%",
+    "factLabel": "Clients who return for a second project within three years — the quietest endorsement we know.",
+    "quotes": [
+      {
+        "tab": "Tab 1",
+        "text": "Elena and her team did not design us a house; they composed one. Three years on, the rooms still surprise us — and that, I think, is the mark of real design.",
+        "author": "Isabella Conti",
+        "role": "Villa Serenoa · Lake Como",
+        "avatar": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2538273546e70bdfb6ffeb_testimonial-author-image-1.webp"
+      },
+      {
+        "tab": "Tab 2",
+        "text": "Elena and her team did not design us a house; they composed one. Three years on, the rooms still surprise us — and that, I think, is the mark of real design.",
+        "author": "Isabella Conti",
+        "role": "Villa Serenoa · Lake Como",
+        "avatar": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2538271d7d922b5e6c8024_testimonial-author-image-3.webp"
+      },
+      {
+        "tab": "Tab 3",
+        "text": "Elena and her team did not design us a house; they composed one. Three years on, the rooms still surprise us — and that, I think, is the mark of real design.",
+        "author": "Isabella Conti",
+        "role": "Villa Serenoa · Lake Como",
+        "avatar": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2538279401d162eb6dfa30_testimonial-author-image-2.webp"
+      }
+    ]
+  },
+  "blog": {
+    "tag": "Studio Journal",
+    "title": "Design, Lifestyle & Inspiration"
+  },
+  "booking": {
+    "tag": "Begin A Commission",
+    "title": "Ready To Talk About Your Space?",
+    "excerpt": "Tell us about your space — we'll tell you honestly whether we're the right studio for it.",
+    "bgImage": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2648fe5f4995327fa242df_bb5d8ce273e5e8e1c1cf70a12d2411c6_booking-bg.webp"
+  }
+}

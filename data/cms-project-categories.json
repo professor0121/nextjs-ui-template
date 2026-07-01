@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "commercial",
+    "title": "Commercial",
+    "description": ""
+  },
+  {
+    "slug": "heritage",
+    "title": "Heritage",
+    "description": ""
+  },
+  {
+    "slug": "hospitality",
+    "title": "Hospitality",
+    "description": ""
+  },
+  {
+    "slug": "lighting",
+    "title": "Lighting",
+    "description": ""
+  },
+  {
+    "slug": "residential",
+    "title": "Residential",
+    "description": ""
+  }
+]

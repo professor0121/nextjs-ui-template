@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "tag": "Our Works",
+    "title": "Spaces That Tell A Story Slowly.",
+    "description": "A curated archive of residences, boutique hotels, heritage interiors and refined commercial spaces. Each project is shaped by the same studio standard: restraint, atmosphere and details that hold after the image has gone.",
+    "stats": [
+      {
+        "label": "Interiors Completed",
+        "count": "41+",
+        "text": "Delivered across residences, boutique hospitality, heritage commissions and quietly exacting commercial spaces."
+      },
+      {
+        "label": "Active Sectors",
+        "count": "5",
+        "text": "Residential, hospitality, heritage, commercial and lighting-led interiors selected with equal restraint."
+      },
+      {
+        "label": "Average Lead Time",
+        "count": "9mo",
+        "text": "We take on a limited number of commissions so each project keeps its pace, precision and single-steward oversight."
+      }
+    ]
+  },
+  "featured": {
+    "tag": "Featured Archive",
+    "title": "Latest Featured Creations",
+    "description": "Not the largest, and not always the most photographed. These are the commissions that best show how we work: patient rooms, clear atmospheres, and details that keep holding after years of use."
+  },
+  "portfolio": {
+    "tag": "Full Portfolio",
+    "title": "Our Latest Creations",
+    "description": "Every commission carries its own tone, but the studio language remains constant. Filter the archive to move through residences, hotels, restorations, commercial spaces and light-led commissions."
+  },
+  "recognition": {
+    "tag": "Featured Archive",
+    "title": "Press Notices, Clients Feel",
+    "description": "We care more about return commissions than awards. These notes map where the work has landed in print, how clients describe it, and which projects keep being revisited.",
+    "quote": {
+      "text": "“By dampening the ambient echoes and streamlining the transitions between rooms, they transformed a chaotic city footprint into a deeply intentional, restorative space.”",
+      "author": "Dani Whitmore",
+      "role": "Casa Bellini . Florence",
+      "avatar": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2538273546e70bdfb6ffeb_testimonial-author-image-1.webp"
+    },
+    "press": {
+      "label": "Recent Press",
+      "value": "12",
+      "items": [
+        {
+          "title": "Architectural Digest",
+          "description": "Villa Serenoa featured for its restrained approach to lakefront luxury.",
+          "year": "2025"
+        },
+        {
+          "title": "Domus",
+          "description": "Casa Bellini noted for its conservation-led restoration strategy.",
+          "year": "2024"
+        },
+        {
+          "title": "Wallpaper*",
+          "description": "Studio Altura listed among Europe's most thoughtful new workspaces.",
+          "year": "2025"
+        }
+      ]
+    },
+    "awards": {
+      "label": "Awards & Returns",
+      "value": "98%",
+      "items": [
+        {
+          "title": "Design Excellence Award",
+          "description": "Interior Design Italy recognition for Studio Altura.",
+          "year": "2025"
+        },
+        {
+          "title": "Client Return Rate",
+          "description": "Most new commissions still come through prior clients or their referrals.",
+          "year": "Since 2019"
+        },
+        {
+          "title": "Repeat Collaborations",
+          "description": "Five families have returned for a second property or hospitality commission.",
+          "year": "Ongoing"
+        }
+      ]
+    }
+  }
+}

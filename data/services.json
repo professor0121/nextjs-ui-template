@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "tag": "Our Services",
+    "title": "Six Ways To Make A Space Impactful",
+    "description": "Each discipline at Orenda is led by a single steward from first conversation to final delivery. We take on only eight commissions per year — never more.",
+    "stats": [
+      {
+        "label": "Commissions Completed",
+        "count": "41+",
+        "text": "Across private residences, boutique hotels and landmark buildings."
+      },
+      {
+        "label": "Years of Practice",
+        "count": "12",
+        "text": "Founded in 2014 by Elena Conti in Milan."
+      },
+      {
+        "label": "Per Year Maximum",
+        "count": "8",
+        "text": "We cap our work at eight — quality demands it."
+      }
+    ]
+  },
+  "disciplines": {
+    "tag": "All Services",
+    "title": "Spaces With Purpose",
+    "description": "Six design disciplines, one studio standard. From private villas to landmark buildings, each commission receives the same patient, unhurried craft — and a single designer who owns it entirely."
+  },
+  "spotlight": {
+    "tag": "In Focus",
+    "title": "Exceptional Work In Focus",
+    "description": "Four disciplines — each demanding a different kind of listening. Click to explore the one that fits your project.",
+    "tabs": [
+      {
+        "id": "residential",
+        "label": "Residential",
+        "panelIndex": "01  ·  Residential Interiors",
+        "panelTitle": "Private Homes, Composed Slowly.",
+        "panelExcerpt": "A private home should surprise its owners every morning — not with novelty, but with the quiet rightness of a room designed for how they actually live.",
+        "stats": [
+          { "count": "24", "label": "Completed" },
+          { "count": "9", "label": "Avg. Timeline" },
+          { "count": "4", "label": "Countries" }
+        ],
+        "features": [
+          "Full-home commissions — one steward from concept to handover.",
+          "Material sourcing across our curated Italian & Nordic supplier network.",
+          "Bespoke furniture and joinery designed and built in our Milan atelier.",
+          "Seven-day site observation before any design decisions are made."
+        ],
+        "cta": "Enquire About Residential",
+        "project": {
+          "title": "Villa Serenoa",
+          "slug": "villa-serenoa",
+          "category": "Coastal Villa",
+          "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be580794a669aeea0702_project-2.webp"
+        }
+      },
+      {
+        "id": "hospitality",
+        "label": "Hospitality",
+        "panelIndex": "02  ·  Hospitality Design",
+        "panelTitle": "Atmospheres That Hold.",
+        "panelExcerpt": "A great hotel room makes a guest want to stay rather than go out. We design for the quality of that pause — when someone stops checking their phone.",
+        "stats": [
+          { "count": "12", "label": "Completed" },
+          { "count": "14", "label": "Avg. Timeline" },
+          { "count": "6", "label": "Countries" }
+        ],
+        "features": [
+          "Boutique hotels, destination restaurants and members' clubs across Europe.",
+          "Brand-to-interior translation — ensuring the space fulfils the identity promise.",
+          "Acoustic planning and lighting choreography included in every commission.",
+          "Annual stewardship: we return to review and refine after year one."
+        ],
+        "cta": "Enquire About Hospitality",
+        "project": {
+          "title": "Palazzo Nero",
+          "slug": "palazzo-nero",
+          "category": "Historic Palazzo",
+          "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be7721a2963f4045f8f8_project-5.webp"
+        }
+      },
+      {
+        "id": "heritage",
+        "label": "Heritage",
+        "panelIndex": "03  ·  Heritage Restoration",
+        "panelTitle": "What the Century Left Behind.",
+        "panelExcerpt": "Half our commissions are restorations — buildings that have held a century of light and still ask for more. We preserve what should stay and introduce what must come.",
+        "stats": [
+          { "count": "6", "label": "Completed" },
+          { "count": "18", "label": "Avg. Timeline" },
+          { "count": "3", "label": "Countries" }
+        ],
+        "features": [
+          "Listed and Grade-I buildings restored with full heritage compliance.",
+          "Conservation-grade plasterwork, timber and stone sourced authentically.",
+          "Modern comfort integrated invisibly — no visible anachronisms.",
+          "Close collaboration with conservation architects and local authorities."
+        ],
+        "cta": "Enquire About Heritage",
+        "project": {
+          "title": "Casa Bellini",
+          "slug": "casa-bellini",
+          "category": "Rural Restoration",
+          "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be6e52599a96eb7b677b_project-4.webp"
+        }
+      },
+      {
+        "id": "commercial",
+        "label": "Commercial",
+        "panelIndex": "04  ·  Commercial Spaces",
+        "panelTitle": "Spaces That Say Something Before Anyone Speaks.",
+        "panelExcerpt": "Galleries, showrooms and private offices where the environment is as deliberate as the work it houses — commercial interiors that communicate identity through atmosphere.",
+        "stats": [
+          { "count": "5", "label": "Completed" },
+          { "count": "7", "label": "Avg. Timeline" },
+          { "count": "3", "label": "Countries" }
+        ],
+        "features": [
+          "Gallery and exhibition environments are designed around artwork and flow.",
+          "Flagship showrooms and luxury retail with brand-aligned interior language.",
+          "Private offices and board rooms where space reflects the company's character.",
+          "Acoustic and lighting consultancy is included in every commercial brief."
+        ],
+        "cta": "Enquire About Commercial",
+        "project": {
+          "title": "Studio Altura",
+          "slug": "studio-altura",
+          "category": "Penthouse",
+          "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be64739e39f44a67a486_project-3.webp"
+        }
+      }
+    ]
+  },
+  "whyOrenda": {
+    "tag": "Why Orenda",
+    "title": "The Standard Behind Every Commission.",
+    "description": "Four commitments we make to every client — regardless of discipline, scale or location.",
+    "items": [
+      {
+        "title": "Ultra-Minimal",
+        "text": "Every project has a single named designer who shepherds it from briefing through to the moment we hand you the keys.",
+        "count": "1:1",
+        "label": "Designer-to-project ratio",
+        "icon": "user"
+      },
+      {
+        "title": "Action-Oriented",
+        "text": "Before sketching a single concept, we spend a week observing your space—tracking its natural light and daily rhythm.",
+        "count": "7",
+        "label": "Days of site witnessing",
+        "icon": "shield"
+      },
+      {
+        "title": "In-House Atelier",
+        "text": "Our Milan atelier produces custom furniture, joinery and lighting fixtures — designed by our team, built by our craftspeople.",
+        "count": "18+",
+        "label": "Bespoke pieces made per year",
+        "icon": "file"
+      },
+      {
+        "title": "Modern & Direct",
+        "text": "We limit our studio to eight active commissions each year—not as a marketing tactic, but because quality demands it.",
+        "count": "98%",
+        "label": "Client return rate",
+        "icon": "file"
+      }
+    ]
+  }
+}

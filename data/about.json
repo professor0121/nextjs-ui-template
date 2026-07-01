@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "title": "We Design Space Life",
+    "description": "Founded in 2014 by Elena Conti, Orenda is a boutique interior studio with fifteen people and two studios — Milan and Geneva. We accept eight commissions a year. Never more.",
+    "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e65b41ea9436a606cdc33_bb21e73ed307b4306487accb4b1ff15a_about-hero-image.webp",
+    "imageLabel": "Studio Milan",
+    "imageLabelStrong": "Via Manzoni 12",
+    "stats": [
+      { "number": "41", "label": "Interiors" },
+      { "number": "12", "label": "Years" },
+      { "number": "2", "label": "Studios" }
+    ]
+  },
+  "ticker": [
+    "Eight Commissions · A Year",
+    "Quiet Craft",
+    "Timeless Interiors",
+    "Milan",
+    "Geneva",
+    "Since 2014"
+  ],
+  "story": {
+    "tag": "Our Values",
+    "title": "Slow Work. Lasting Rooms.",
+    "quote": "\"We began in a single room on Via Manzoni. One commission. One drawing table. That commission became Villa Serenoa — and Villa Serenoa became the studio's voice.\"",
+    "bannerImage": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e3b48ea05edc6fce45854_c81d6a264982022173316fb0347cc583_story-image.webp",
+    "bannerCaption": "Atelier Milan — Via Manzoni — 2025",
+    "paragraphs": [
+      "We do not rush. We measure. We revise. A room earns its quietness through decisions made slowly — the angle of a window, the grain direction of a floorboard, the temperature of a lampshade at dusk. None of that can be hurried. Each commission begins with weeks of listening before a single line is drawn.",
+      "In 2016 we opened in Geneva. Our second studio brought new clients, new materials, and a colder northern light that we found beautiful. Today we work across Italy and Switzerland — residential commissions, private hotels, and the occasional heritage restoration. We keep the team small. Fifteen people is the right size — enough to take on difficult work, small enough that nothing passes without being seen by someone who cares."
+    ],
+    "founder": {
+      "name": "Elena Conti",
+      "title": "Founder & Principal",
+      "quote": "\"Eight commissions a year. The limit is not a constraint — it is how we stay good.\"",
+      "avatar": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e27201cdaa9b9e01e9fa4_team-image-1.webp"
+    }
+  },
+  "stats": [
+    {
+      "number": "41",
+      "label": "Interiors Completed",
+      "description": "Across Switzerland, Italy and the South of France."
+    },
+    {
+      "number": "12",
+      "label": "Years Of Practice",
+      "description": "Founded 2014 on Via Manzoni, Milan."
+    },
+    {
+      "number": "98%",
+      "label": "Client Return Rate",
+      "description": "Clients who come back. We take that seriously."
+    },
+    {
+      "number": "8",
+      "label": "Commissions Per Year",
+      "description": "A deliberate limit. Quality demands it."
+    }
+  ],
+  "values": {
+    "tag": "Our Values",
+    "title": "Six Principles We Live By.",
+    "description": "We have never written a mission statement. Instead, we keep six principles on the wall of the Milan atelier. They guide every decision — from the first client meeting to the final light check.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Restraint",
+        "description": "We subtract before we add. The most powerful element in a room is often the one we chose not to include.",
+        "icon": "restraint"
+      },
+      {
+        "num": "02",
+        "title": "Craft",
+        "description": "Every surface is touched by someone who cares. We work with artisans, not manufacturers. The difference is felt, not seen.",
+        "icon": "craft"
+      },
+      {
+        "num": "03",
+        "title": "Patience",
+        "description": "Good interiors take time. We accept eight commissions a year — never more. That limit is not a constraint. It is how we stay good.",
+        "icon": "patience"
+      },
+      {
+        "num": "04",
+        "title": "Precision",
+        "description": "A millimeter out of alignment disturbs a room for years. We measure twice. And then once more — because precision is a form of respect.",
+        "icon": "precision"
+      },
+      {
+        "num": "05",
+        "title": "Dialogue",
+        "description": "We listen first. The client's life is the brief. Our job is to translate it into space — not to impose a signature, but to reveal a home.",
+        "icon": "dialogue"
+      },
+      {
+        "num": "06",
+        "title": "Longevity",
+        "description": "We design for decades. Not for the photograph — for the morning after, ten years hence, when the room still feels exactly right.",
+        "icon": "longevity"
+      }
+    ]
+  },
+  "team": {
+    "tag": "The People",
+    "title": "The Team Behind The Vision",
+    "members": [
+      {
+        "name": "Elena Conti",
+        "role": "Founder & Principal",
+        "trait": "“A space should exceed its brief.”",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e27201cdaa9b9e01e9fa4_team-image-1.webp"
+      },
+      {
+        "name": "Marco Ferretti",
+        "role": "Senior Architect",
+        "trait": "Poetry lives within structure.",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e27201ad72d3a0d2d06b0_team-image-4.webp"
+      },
+      {
+        "name": "Lucia Romani",
+        "role": "Material Consultant",
+        "trait": "\"Touch before you see.\"",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e2720b835d8b66971de4f_team-image-3.webp"
+      },
+      {
+        "name": "Davide Ansaldi",
+        "role": "Project Director",
+        "trait": "\"Precision is a form of care.\"",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e2720810063a4338cefac_team-image-2.webp"
+      },
+      {
+        "name": "Chiara Valli",
+        "role": "Junior Designer",
+        "trait": "\"I am still learning to listen.\"",
+        "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2e2720f789986bf2acd675_team-image-5.webp"
+      }
+    ]
+  },
+  "timeline": {
+    "tag": "Our Journey",
+    "title": "Twelve Years Of Quiet Work.",
+    "description": "We do not measure our history by awards or press coverage. We measure it by the rooms we have made and the silence inside them when they are finally finished.",
+    "items": [
+      {
+        "year": "2014",
+        "location": "Milan — Italy",
+        "title": "The Studio Opens",
+        "description": "Elena Conti founded Orenda on Via Manzoni in Milan. Our very first commission is Villa Serenoa at Lake Como: one room, one drawing table."
+      },
+      {
+        "year": "2016",
+        "location": "Geneva — Switzerland",
+        "title": "Geneva Atelier",
+        "description": "The Geneva studio opens on Rue du Rhône. We take our first hospitality commission Hôtel du Lac, Montreux. A colder light, a welcome addition."
+      },
+      {
+        "year": "2018",
+        "location": "Rome — Italy",
+        "title": "Casa Bellini & Domus",
+        "description": "Casa Bellini, Rome, is featured in Domus magazine. The studio team grows to eight members now. We are still remaining quite quiet about it."
+      },
+      {
+        "year": "2020",
+        "location": "Rome — Italy",
+        "title": "Palazzo Nero",
+        "description": "Our largest commission to date, Palazzo Nero, Rome, is completed. A complex heritage conversion that took three years and changed everyone."
+      },
+      {
+        "year": "2022",
+        "location": "Milan — Italy",
+        "title": "Studio Altura",
+        "description": "Studio Altura wins the Design Excellence Award for Interior Design Italy. Five years without a mediocre commission. We frame it, not hang it."
+      },
+      {
+        "year": "2024",
+        "location": "Geneva — Switzerland",
+        "title": "Heritage & 41",
+        "description": "Partnership with Swiss Heritage yields three restoration commissions. Our 41st interior is completed. We mark it quietly, the right way."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "logo": {
+    "src": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a21353f6ade2f5b2b695bbe_2aa2513966bb2201abf1d75b8db8955a_brand-logo.png",
+    "alt": "Brand Logo"
+  },
+  "menuItems": [
+    { "type": "link", "label": "Home", "href": "/" },
+    { "type": "link", "label": "About", "href": "/about" },
+    { "type": "link", "label": "Services", "href": "/services" },
+    { "type": "link", "label": "Projects", "href": "/projects" },
+    {
+      "type": "dropdown",
+      "label": "Pages",
+      "groups": [
+        {
+          "title": "Pages",
+          "items": [
+            { "label": "Journal", "href": "/blog" },
+            { "label": "Contact Us", "href": "/contact" }
+          ]
+        },
+        {
+          "title": "CMS pages",
+          "items": [
+            { "label": "Service Details", "href": "/services/hospitality-design" },
+            { "label": "Blog Details", "href": "/post/what-happens-in-week-one-before-a-commission-finds-its-shape" },
+            { "label": "Project Details", "href": "/project/palazzo-nero" }
+          ]
+        },
+        {
+          "title": "Template info",
+          "items": [
+            { "label": "Style Guide", "href": "/template-info/style-guide" },
+            { "label": "Licenses", "href": "/template-info/licenses" },
+            { "label": "Changelog", "href": "/template-info/changelog" }
+          ]
+        },
+        {
+          "title": "Utility pages",
+          "items": [
+            { "label": "Password Protected", "href": "/401" },
+            { "label": "404 Page", "href": "/404" }
+          ]
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "label": "Get in Touch",
+    "href": "/contact"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "tag": "Inquiries",
+    "title": "Let Us Observe Your Space.",
+    "description": "We take on a limited number of commissions each year. Reach out to discuss your project, and we will tell you honestly if we are the right studio to steward it.",
+    "stats": [
+      {
+        "label": "Commission Cap",
+        "count": "08 / Year",
+        "text": "A strict limit ensures dedicated attention to each project."
+      },
+      {
+        "label": "Response Time",
+        "count": "48 Hours",
+        "text": "Every inquiry is reviewed directly by our lead designers."
+      },
+      {
+        "label": "Global Presence",
+        "count": "Milan & Geneva",
+        "text": "Accepting selected commissions across Europe and beyond."
+      }
+    ]
+  },
+  "inquiries": {
+    "general": {
+      "title": "General Inquiries",
+      "excerpt": "For all project-related questions, collaboration requests, or to schedule an initial consultation.",
+      "email": "info@example.com",
+      "phone": "+012 3456 78910"
+    },
+    "press": {
+      "title": "Press & Media",
+      "excerpt": "For publication features, high-resolution image requests, and interviews with Elena Conti.",
+      "email": "info@example.com"
+    },
+    "careers": {
+      "title": "Careers",
+      "excerpt": "We are always looking for quiet talent. Send your portfolio (PDF, max 10MB) for consideration.",
+      "email": "info@example.com"
+    }
+  },
+  "locations": [
+    {
+      "city": "Milan",
+      "address": "Via Manzoni 12\nMilano 20121, Italy",
+      "mapLink": "https://maps.google.com/",
+      "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a38c170fbf903a6ea015c45_90e6bda9024407aa62da42ccdea3c9cf_location-2.webp"
+    },
+    {
+      "city": "Geneva",
+      "address": "Rue du Rhône 8\nGeneva 1204, Switzerland",
+      "mapLink": "https://maps.google.com/",
+      "image": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a38c17097e893376e5ff199_ba2a33a34c5daa10cd3bf1aaca686bd3_location-1.webp"
+    }
+  ]
+}

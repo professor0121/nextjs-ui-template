@@ -1,0 +1,548 @@
+[
+  {
+    "slug": "commercial-spaces",
+    "title": "Commercial Spaces",
+    "excerpt": "Galleries, flagship showrooms and private office interiors where the environment is as deliberate as the work it houses — spaces that say something before anyone speaks.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "5-9",
+        "text": "Months from briefing to final handover, depending on scale, fit-out complexity and any bespoke fabrication required."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "G / S / O",
+        "text": "Galleries, flagship showrooms and private office interiors where the environment must perform before anyone speaks."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "3",
+        "text": "We keep commercial starts limited so every space receives the same depth of attention we apply to private residential commissions."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40dd88a0e5b784ac32229f_Commercial%20Spaces.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — planning, material direction and lighting shaped as a single atmosphere, then carried through procurement, joinery and final styling.</p><p>We keep commercial starts intentionally limited, so every project receives a single steward and close site attention until the space settles.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Lombardy, Italy.",
+      "title": "Atelier Rive",
+      "href": "/project/atelier-rive",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be499e25967fa1a409e7_project-1.webp",
+      "text": "A penthouse designed around sculpture, daylight, and tactile surfaces, with nearly every fixed element custom-built in the Milan atelier."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" data-rt-align=\"fullwidth\" data-rt-max-width=\"1400px\" data-rt-type=\"image\" style=\"max-width:1400px\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" height=\"auto\" loading=\"auto\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\" width=\"auto\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  },
+  {
+    "slug": "heritage-restoration",
+    "title": "Heritage Restoration",
+    "excerpt": "Landmark buildings brought quietly into the present — preserving what the century left behind while introducing modern comfort without apology.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "12-18",
+        "text": "Months from structural survey to final handover, reflecting the research, consent processes and craft time each heritage commission requires."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "L / H / P",
+        "text": "Listed buildings, heritage properties and period interiors where the balance between preservation and modern comfort must be held precisely."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "2",
+        "text": "Heritage commissions are limited to two per year to allow the sustained site presence and archival research each project demands."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40dd7dbe24041947467c39_Heritage%20Restoration.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — structural survey, material matching and modern comfort introduced without apology, carried through procurement and final restoration detailing.</p><p>We limit heritage starts carefully, so every landmark receives a single steward and sustained site presence through the most sensitive phases of work.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Tuscany, Italy.",
+      "title": "Casa Bellini",
+      "href": "/project/casa-bellini",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be6e52599a96eb7b677b_project-4.webp",
+      "text": "A Tuscan farmhouse restoration that erases the boundary between intervention and origin through reclaimed stone, rescued timber, and local craft."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" data-rt-align=\"fullwidth\" data-rt-max-width=\"1400px\" data-rt-type=\"image\" style=\"max-width:1400px\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" height=\"auto\" loading=\"auto\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\" width=\"auto\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  },
+  {
+    "slug": "hospitality-design",
+    "title": "Hospitality Design",
+    "excerpt": "Boutique hotels, members’ clubs and destination restaurants — atmospheres that hold a guest from the moment they step inside.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "10-16",
+        "text": "Months from briefing to opening, depending on venue scale, fit-out complexity and the volume of bespoke fabrication required."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "H / C / R",
+        "text": "Boutique hotels, members clubs and destination restaurants where atmosphere must hold a guest from the moment they step inside."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "4",
+        "text": "We keep hospitality starts limited annually to ensure every venue receives the full depth of material and spatial attention the brief demands."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40dd708cb15a3ebf13f7da_Hospitality%20Design.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — planning, material direction and lighting shaped as a single atmosphere, then carried through procurement, joinery and final styling.</p><p>We keep hospitality starts intentionally limited, so every venue receives a single steward and close site attention until the space opens and settles into use.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Lerici, Liguria.",
+      "title": "Villa Serenoa",
+      "href": "/project/villa-serenoa",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be580794a669aeea0702_project-2.webp",
+      "text": "A coastal villa above the Gulf of Poets designed around a dual-aspect plan that holds both sea and mountain within every principal room simultaneously."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" data-rt-align=\"fullwidth\" data-rt-max-width=\"1400px\" data-rt-type=\"image\" style=\"max-width:1400px\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" height=\"auto\" loading=\"auto\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\" width=\"auto\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  },
+  {
+    "slug": "lighting-design",
+    "title": "Lighting Design",
+    "excerpt": "Light is not decoration — it is the room's first material. We compose bespoke lighting schemes and commission fixtures that turn function into atmosphere.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "9-14",
+        "text": "Months from briefing to final installation, depending on scale, location and the amount of bespoke work required."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "V / A / P",
+        "text": "Private villas, city apartments and penthouses where atmosphere matters as much as planning precision."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "3",
+        "text": "We keep residential starts intentionally limited so every home receives a single steward and close site attention."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40ddb6be240419474685d5_Lighting%20Design.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — planning, material direction and lighting shaped as a single atmosphere, then carried through procurement, joinery and final styling.</p><p>We keep residential starts intentionally limited, so every home receives a single steward and close site attention until the rooms settle.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Milan, Italy.",
+      "title": "Luce Series",
+      "href": "/project/luce-series",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40bf94c4092364e21da2a4_project-6.webp",
+      "text": "A studio designed around diffused light, cool stone, and structured silence, with every fixed partition custom-fabricated in the Milan atelier."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\" style=\"max-width:1400pxpx\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" loading=\"lazy\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  },
+  {
+    "slug": "residential-interiors",
+    "title": "Residential Interiors",
+    "excerpt": "Private homes and family residences composed with restraint — rooms that hold light well and age gracefully across the decades.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "9-14",
+        "text": "Months from briefing to final installation, depending on scale, location and the amount of bespoke work required."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "V / A / P",
+        "text": "Private villas, city apartments and penthouses where atmosphere matters as much as planning precision."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "3",
+        "text": "We keep residential starts intentionally limited so every home receives a single steward and close site attention until the rooms settle."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40dd2a6fa1a86757481b73_Residential%20Interiors.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — planning, material direction and lighting shaped as a single atmosphere, then carried through procurement, joinery and final styling.</p><p>We keep residential starts intentionally limited, so every home receives a single steward and close site attention until the rooms settle.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Milan, Italy.",
+      "title": "Studio Altura",
+      "href": "/project/studio-altura",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be64739e39f44a67a486_project-3.webp",
+      "text": "A duplex penthouse split between a panoramic social floor and a deeply private residential level, unified through a two-tone material system."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\" style=\"max-width:1400pxpx\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" loading=\"lazy\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  },
+  {
+    "slug": "spatial-concept-furniture",
+    "title": "Spatial Concept & Furniture",
+    "excerpt": "When existing pieces won't do — custom furniture and spatial interventions conceived in-house, built in our Milan atelier and designed to outlive every trend.",
+    "stats": [
+      {
+        "label": "Typical Timeline",
+        "count": "6-10",
+        "text": "Months from briefing to final installation, depending on scale, complexity and the volume of bespoke pieces required."
+      },
+      {
+        "label": "Best Suited For",
+        "count": "V / P / R",
+        "text": "Private villas, penthouses and residences where off-the-shelf furniture cannot answer the spatial logic of the commission."
+      },
+      {
+        "label": "New Starts Per Year",
+        "count": "4",
+        "text": "We limit furniture commissions annually to ensure every piece receives full atelier attention from concept through fabrication."
+      }
+    ],
+    "overviewTitle": "How Spaces Become HomeFrom Vision To Atmosphere",
+    "overviewExcerpt": "A full-envelope service. We compose the house as one atmosphere — circulation, millwork, upholstery, art and evening light — never an idea on paper, never decoration after the fact.",
+    "overviewImage": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40dda842ab15cd8e4ce4b9_Spatial%20Concept%20%26%20Furniture.webp",
+    "standardTitle": "The Studio Standard",
+    "richTextHtml": "<p>From first brief to handover we hold one continuous logic — planning, material direction and lighting shaped as a single atmosphere, then carried through procurement, joinery and final styling.</p><p>We keep residential starts intentionally limited, so every home receives a single steward and close site attention until the rooms settle.</p>",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "PLN"
+      },
+      {
+        "title": "Material Direction",
+        "text": "MAT"
+      },
+      {
+        "title": "Bespoke Elements",
+        "text": "BSP"
+      },
+      {
+        "title": "Lighting Layers",
+        "text": "LGT"
+      },
+      {
+        "title": "Procurement",
+        "text": "PRC"
+      },
+      {
+        "title": "Final Styling",
+        "text": "FIN"
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNum": "01",
+        "phase": "Phase 01",
+        "title": "Observation",
+        "excerpt": "Time on site before drawing — reading movement, daylight, and how the household occupies the plan.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "02",
+        "phase": "Phase 02",
+        "title": "Concept & Plan",
+        "excerpt": "Circulation, hierarchy, material tone, and emotional register — set before any single item is detailed.",
+        "label": "3-5 Weeks"
+      },
+      {
+        "stepNum": "03",
+        "phase": "Phase 03",
+        "title": "Design Development",
+        "excerpt": "Layouts become elevations, materials are tested, and custom pieces are drawn before execution begins.",
+        "label": "1-2 Weeks"
+      },
+      {
+        "stepNum": "04",
+        "phase": "Phase 04",
+        "title": "Build & Installation",
+        "excerpt": "We steward procurement, site review, placement, and post-handover edits until the rooms settle.",
+        "label": "Project Dependent"
+      }
+    ],
+    "relatedWork": {
+      "label": "Bologna, Italy.",
+      "title": "Palazzo Nero",
+      "href": "/project/palazzo-nero",
+      "image": "https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a40be7721a2963f4045f8f8_project-5.webp",
+      "text": "A four-storey historic palazzo transformed through radical contrast—preserved frescoes and terracotta set against new insertions of absolute black granite."
+    },
+    "richTextTwoHtml": "<h3>Transforming A House Into A Settled Home.</h3><p>A family residence with quiet grandeur and rooms that stay calm once everyday life arrives. We led the full envelope — plan, materials, lighting and procurement — under one continuous logic.</p><h4>What The Brief Asked For</h4><p>Quiet grandeur, almost no visual noise and custom storage throughout — rooms that would keep their calm long after move-in.</p><figure class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" data-rt-align=\"fullwidth\" data-rt-max-width=\"1400px\" data-rt-type=\"image\" style=\"max-width:1400px\"><div><img alt=\"Calm walnut and limestone living space at Villa Serenoa\" height=\"auto\" loading=\"auto\" src=\"https://cdn.prod.website-files.com/6a26598ac62c4449fd2c087a/6a27903d281cfb6dea9de6a1_photo-1586023492125-27b2c045efd7.jpeg\" width=\"auto\"></div></figure><h4>Project Snapshot</h4><p>9 Months Total14 Custom PiecesWalnut + LimestoneFull Procurement</p><h4>Client Outcome</h4><p>\"It does not feel finished in the decorative sense. It feels settled — exactly what we hoped for.\"</p>"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "logo": {
+    "src": "https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a21353f6ade2f5b2b695bbe_2aa2513966bb2201abf1d75b8db8955a_brand-logo.png",
+    "alt": "Brand Logo"
+  },
+  "description": "A boutique interior design studio based in Milan and Geneva. Since 2014, composing quiet, cinematic interiors for private clients, hotels and heritage buildings.",
+  "contact": {
+    "address": "Via Manzoni 12, Milano 20121Rue du Rhône 8, Geneva 1204",
+    "email": "info@example.com",
+    "phone": "+012 3456 7891",
+    "phoneHref": "tel:+01234567891"
+  },
+  "columns": [
+    {
+      "title": "Studio",
+      "links": [
+        { "label": "Home", "href": "/" },
+        { "label": "About", "href": "/about" },
+        { "label": "Services", "href": "/services" },
+        { "label": "Journal", "href": "/blog" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Work",
+      "links": [
+        { "label": "Projects", "href": "/projects" },
+        { "label": "Residential", "href": "/project-category/residential" },
+        { "label": "Hospitality", "href": "/project-category/hospitality" },
+        { "label": "Heritage", "href": "/project-category/heritage" },
+        { "label": "Lighting", "href": "/project-category/lighting" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "label": "Not Found Page", "href": "/404" },
+        { "label": "Protected Page", "href": "/401" },
+        { "label": "Style Guide", "href": "/template-info/style-guide" },
+        { "label": "Licenses", "href": "/template-info/licenses" },
+        { "label": "Changelog", "href": "/template-info/changelog" }
+      ]
+    }
+  ],
+  "newsletter": {
+    "title": "Field Notes From The Atelier.",
+    "tag": "Studio Dispatch",
+    "description": "One email a month. Notes on light, material, and the current commission — never louder than that."
+  },
+  "socials": [
+    { "platform": "Instagram", "href": "https://www.instagram.com/" },
+    { "platform": "Pinterest", "href": "https://www.pinterest.com/" },
+    { "platform": "Behance", "href": "https://www.behance.net/" },
+    { "platform": "LinkedIn", "href": "https://www.linkedin.com/" }
+  ],
+  "copyright": "Copyright © Orenda | Designed by Brandbes - Powered by Webflow"
+}

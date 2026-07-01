@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "tag": "Studio Journal",
+    "title": "Insights From The World Of Interiors",
+    "description": "Essays from the atelier on daylight, restoration, hospitality and the quieter decisions behind every finished room. Less trend report, more record of what keeps holding over time.",
+    "stats": [
+      {
+        "label": "Published Essays",
+        "count": "36",
+        "text": "Field notes from residences, hotels, restorations and the material studies that shape them."
+      },
+      {
+        "label": "Recurring Series",
+        "count": "5",
+        "text": "Slow Light, Material Ledger, Site Diary, Hospitality Notes and Studio Dispatch."
+      },
+      {
+        "label": "Dispatch Rhythm",
+        "count": "1mo",
+        "text": "A single monthly note with no noise between issues, sent only when there is something worth keeping."
+      }
+    ]
+  },
+  "featured": {
+    "tag": "Featured Essays",
+    "title": "Three Stories From The Studio Desk.",
+    "description": "The journal reads the same way the studio works: slowly, with attention to atmosphere, craft and the choices that shape how a room feels long after the photographs are taken."
+  },
+  "archive": {
+    "tag": "Editorial Archive",
+    "title": "Discover More From Our Journal",
+    "description": "Every note begins with a real room, a material question, or a decision made on site. Filter the archive to move through daylight studies, material essays, hospitality thinking and dispatches from the studio floor."
+  }
+}
