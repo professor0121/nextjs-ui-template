@@ -6,8 +6,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import LenisInit from "@/components/LenisInit";
-import WebflowAnimationInit from "@/components/WebflowAnimationInit";
-import webflowPages from "@/components/webflow-pages.json";
+import GSAPAnimationInit from "@/components/GSAPAnimationInit";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -40,38 +39,13 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${cormorant.variable} ${lora.variable} h-full antialiased`}
+      className={`${inter.variable} ${cormorant.variable} ${lora.variable} h-full antialiased w-mod-js`}
       suppressHydrationWarning
     >
-      <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function() {
-                const path = window.location.pathname;
-                const pages = ${JSON.stringify(webflowPages)};
-                const pageId = pages[path] || pages[path.replace(/\\/$/, '')] || "";
-                document.documentElement.setAttribute('data-wf-page', pageId);
-                document.documentElement.setAttribute('data-wf-site', '6a1e909d66cc33761db4a46d');
-              })();
-            `,
-          }}
-        />
-      </head>
+      <head />
+
       <body className="min-h-full flex flex-col" suppressHydrationWarning>
-        {/* Scripts needed by Webflow and GSAP animations */}
-        <Script
-          src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a1e909d66cc33761db4a46d"
-          strategy="beforeInteractive"
-        />
-        <Script
-          src="https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/js/webflow.schunk.9af921559b30ff15.js"
-          strategy="afterInteractive"
-        />
-        <Script
-          src="https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/js/webflow.de730475.71b345051e3967e4.js"
-          strategy="afterInteractive"
-        />
+        {/* GSAP and animation scripts */}
         <Script
           src="https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js"
           strategy="beforeInteractive"
@@ -99,7 +73,7 @@ export default function RootLayout({
           <Footer />
         </main>
         <LenisInit />
-        <WebflowAnimationInit />
+        <GSAPAnimationInit />
       </body>
     </html>
   );
