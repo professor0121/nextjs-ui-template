@@ -2,6 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import cmsServices from "@/data/cms-services.json";
+import BookingForm from "@/components/BookingForm";
+
 
 interface Props {
   params: Promise<{
@@ -280,133 +282,7 @@ export default async function ServiceDetail({ params }: Props) {
       </section>
 
       {/* Booking Form Section */}
-      <section className="booking-section" data-wf--booking--variant="base" id="booking">
-        <div className="section-gap">
-          <div className="w-layout-blockcontainer container-default w-container">
-            <div className="booking-inner">
-              <div className="section-title-inner center">
-                <div
-                  className="subtitle-block w-variant-bc0b6b29-b2ff-4e7b-6bfc-075985170731"
-                  data-wf--subtitle-block--variant="spacing-bottom"
-                >
-                  <div className="subtile-dot"></div>
-                  <p className="subtitle-text">Begin A Commission</p>
-                </div>
-                <div className="section-title-block booking">
-                  <h2 className="section-title">
-                    Ready To <span className="title-span">Talk About</span> Your Space?
-                  </h2>
-                </div>
-                <p className="section-excerpt booking" fade-in="0.2">
-                  Tell us about your space — we&apos;ll tell you honestly whether we&apos;re the
-                  right studio for it.
-                </p>
-              </div>
-              <div className="booking-form w-form" fade-in="0.4">
-                <form className="booking-form-block" onSubmit={(e) => e.preventDefault()}>
-                  <div className="booking-form-wrapper">
-                    <div
-                      className="input-field-wrapper"
-                      id="w-node-_2cfe9434-3216-8784-67cc-4ca584fa7b7d-84fa7b6d"
-                    >
-                      <label className="form-label" htmlFor="Name">
-                        Full Name *
-                      </label>
-                      <input
-                        aria-label="Name Filed"
-                        className="input-field w-input"
-                        id="Name"
-                        placeholder="Enter full name"
-                        required
-                        type="text"
-                      />
-                    </div>
-                    <div
-                      className="input-field-wrapper"
-                      id="w-node-_2cfe9434-3216-8784-67cc-4ca584fa7b81-84fa7b6d"
-                    >
-                      <label className="form-label" htmlFor="email">
-                        Email *
-                      </label>
-                      <input
-                        aria-label="Email Filed"
-                        className="input-field w-input"
-                        id="email"
-                        placeholder="Enter email address"
-                        required
-                        type="email"
-                      />
-                    </div>
-                    <div className="input-field-wrapper">
-                      <label className="form-label" htmlFor="field">
-                        Project Type *
-                      </label>
-                      <select
-                        aria-label="Project Type"
-                        className="input-field select w-select"
-                        id="field"
-                        defaultValue="Residential"
-                      >
-                        <option value="Residential">Residential</option>
-                        <option value="Hospitality">Hospitality</option>
-                        <option value="Commercial">Commercial</option>
-                        <option value="Heritage">Heritage</option>
-                      </select>
-                    </div>
-                    <div
-                      className="input-field-wrapper"
-                      id="w-node-_2cfe9434-3216-8784-67cc-4ca584fa7b89-84fa7b6d"
-                    >
-                      <label className="form-label" htmlFor="Guests">
-                        Location *
-                      </label>
-                      <input
-                        aria-label="Location Field"
-                        className="input-field w-input"
-                        id="Guests"
-                        placeholder="City &amp; Location"
-                        required
-                        type="text"
-                      />
-                    </div>
-                    <div
-                      className="input-field-wrapper"
-                      id="w-node-_2cfe9434-3216-8784-67cc-4ca584fa7b8d-84fa7b6d"
-                    >
-                      <label className="form-label" htmlFor="Date">
-                        Preferred Start
-                      </label>
-                      <input
-                        aria-label="Date Field"
-                        className="input-field"
-                        type="date"
-                        id="Date"
-                      />
-                    </div>
-                    <input
-                      className="submit-button w-button"
-                      id="w-node-_2cfe9434-3216-8784-67cc-4ca584fa7b91-84fa7b6d"
-                      type="submit"
-                      value="Submit"
-                    />
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="booking-bg-wrapper">
-          <div className="bookig-top-overlay"></div>
-          <Image
-            alt="Reservation Hero BG Image"
-            className="booking-bg-image"
-            src="https://cdn.prod.website-files.com/6a1e909d66cc33761db4a46d/6a2648fe5f4995327fa242df_bb5d8ce273e5e8e1c1cf70a12d2411c6_booking-bg.webp"
-            width={2400}
-            height={1600}
-          />
-          <div className="booking-bg-overlay"></div>
-        </div>
-      </section>
+      <BookingForm />
     </main>
   );
 }

@@ -24,3 +24,53 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Webflow Interaction initial states to prevent FOUC */
+html.w-mod-js:not(.w-mod-ix3) :is(
+  .button-bg,
+  .button-icon,
+  .secondary-button-bg,
+  .secondary-button-bg-inner,
+  .faq-body,
+  .company-logo-inner,
+  .section-title,
+  .service-item-thumbnail,
+  [fade-in="0"],
+  [fade-in="0.4"],
+  [fade-in="0.8"],
+  [fade-in="0.2"],
+  [fade-in="0.6"],
+  .image-overlay-strip,
+  .page-load-image-overlay-strip,
+  [hero-fade-in="0.2"],
+  [hero-fade-in="0.4"],
+  [hero-title="true"],
+  [hero-fade-in="0.6"],
+  [inner-title="true"],
+  .ticker-inner,
+  [cms-image-hover="true"],
+  [inner-title-scroll="true"],
+  .home-hero-section,
+  .home-about-section,
+  .hero-left,
+  .hero-right,
+  .home-hero-center,
+  .home-hero-title,
+  .home-hero-excerpt,
+  .homer-hero-button-wrapper,
+  .section-stat-block,
+  .hero-badge-circle,
+  .home-project-category.two,
+  .home-project-list-wrapper.two,
+  .home-project-category.three,
+  .home-project-list-wrapper.three,
+  .home-project-category.four,
+  .home-project-list-wrapper.four,
+  .home-project-section,
+  .home-process-section,
+  .hero-ring,
+  .next-project-bg
+) {
+  visibility: hidden !important;
+}
+

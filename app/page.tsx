@@ -166,9 +166,14 @@ export default function Home() {
                           className="home-about-slider-item w-slide"
                           style={{
                             opacity: aboutActiveSlide === index ? 1 : 0,
-                            display: aboutActiveSlide === index ? "block" : "none",
-                            transition: "opacity 700ms ease",
-                            zIndex: aboutActiveSlide === index ? 1 : 0,
+                            transition: "opacity 700ms ease-in-out",
+                            position: aboutActiveSlide === index ? "relative" : "absolute",
+                            left: 0,
+                            top: 0,
+                            width: "100%",
+                            height: "100%",
+                            zIndex: aboutActiveSlide === index ? 2 : 1,
+                            pointerEvents: aboutActiveSlide === index ? "auto" : "none",
                           }}
                         >
                           <div className="about-media">
@@ -779,9 +784,14 @@ export default function Home() {
                         activeTestimonial === idx ? "w--tab-active" : ""
                       }`}
                       style={{
-                        display: activeTestimonial === idx ? "block" : "none",
                         opacity: activeTestimonial === idx ? 1 : 0,
-                        transition: "opacity 300ms ease",
+                        transition: "opacity 300ms ease-in-out",
+                        position: activeTestimonial === idx ? "relative" : "absolute",
+                        left: 0,
+                        top: 0,
+                        width: "100%",
+                        zIndex: activeTestimonial === idx ? 2 : 1,
+                        pointerEvents: activeTestimonial === idx ? "auto" : "none",
                       }}
                     >
                       <div className="testimonials-quote">
